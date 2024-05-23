@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062874061504",
+    "project_id": "aikyam-3f5c5",
+    "storage_bucket": "aikyam-3f5c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062874061504:android:b12a86bc8a4e0297526b25",
+        "android_client_info": {
+          "package_name": "com.example.aikyam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn0nKGahle-qzyu-uvUZCH3m32mOuMhQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
