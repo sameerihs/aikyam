@@ -6,15 +6,9 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technological Stack](#technological-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Working Modules](#working-modules)
 - [Libraries Used](#libraries-used)
-- [System Design / Architecture](#system-design--architecture)
-- [Security and Scalability](#security-and-scalability)
 - [Future Work](#future-work)
-- [License](#license)
-- [Contributors](#contributors)
+
 
 ## Introduction
 Aikyam is a comprehensive solution designed to manage and protect user identities and crucial information in emergency situations. The app integrates modern technology such as NFC (Near Field Communication) to ensure that users' data is secure, accessible, and easily manageable. Aikyam aims to provide a seamless user experience while maintaining the highest standards of data security and privacy.
@@ -50,4 +44,7 @@ Aikyam is a comprehensive solution designed to manage and protect user identitie
 - **lottie**: Lottie animations
 - **nfc_manager**: NFC integration
 - **flutter_lints**: Recommended lint rules for Flutter
+
+## Future Work
+Aikyam aims to continuously evolve by integrating advanced features such as AI-based health monitoring, real-time data analytics, and expanded NFC functionalities. Future developments will focus on enhancing user experience, expanding the scope of emergency response integration, and maintaining the highest security standards to adapt to emerging threats and technological advancements.
 
