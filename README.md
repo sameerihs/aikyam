@@ -1,6 +1,6 @@
 # Aikyam - Identity and Emergency Management App
 
-![Aikyam App Logo](assets/images/Aikyam Logo.png)
+![Aikyam App Logo](https://github.com/sameerihs/aikyam/blob/main/assets/images/Aikyam%20Logo.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
