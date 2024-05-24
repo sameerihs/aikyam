@@ -1,16 +1,53 @@
-# aikyam
+# Aikyam - Identity and Emergency Management App
 
-A new Flutter project.
+![Aikyam App Logo](assets/images/Aikyam Logo.png)
 
-## Getting Started
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technological Stack](#technological-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Working Modules](#working-modules)
+- [Libraries Used](#libraries-used)
+- [System Design / Architecture](#system-design--architecture)
+- [Security and Scalability](#security-and-scalability)
+- [Future Work](#future-work)
+- [License](#license)
+- [Contributors](#contributors)
 
-This project is a starting point for a Flutter application.
+## Introduction
+Aikyam is a comprehensive solution designed to manage and protect user identities and crucial information in emergency situations. The app integrates modern technology such as NFC (Near Field Communication) to ensure that users' data is secure, accessible, and easily manageable. Aikyam aims to provide a seamless user experience while maintaining the highest standards of data security and privacy.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Secure storage of ID cards and medical records.
+- Emergency information display for first responders.
+- Profile management with emergency contacts.
+- Secure document vault for important documents.
+- NFC-based data sharing.
+- Multi-factor authentication.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technological Stack
+- **Frontend**: Flutter
+- **Backend**: Firebase Firestore, Firebase Authentication, Firebase Functions
+- **NFC Technology**: NTAG213, NTAG216
+- **Programming Languages**: Dart
+- **Version Control**: GitHub
+
+
+## Libraries Used
+- **flutter**: SDK for building the app
+- **cupertino_icons**: iOS style icons
+- **firebase_core**: Core Firebase functionalities
+- **cloud_firestore**: Firestore database integration
+- **firebase_auth**: Firebase Authentication
+- **flutter_svg**: SVG rendering in Flutter
+- **flutter_animated_dialog**: Animated dialogs
+- **fluentui_system_icons**: Fluent UI icons
+- **qr_flutter**: QR code generation
+- **wtf_sliding_sheet**: Sliding sheet widget
+- **lottie**: Lottie animations
+- **nfc_manager**: NFC integration
+- **flutter_lints**: Recommended lint rules for Flutter
+
