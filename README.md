@@ -3,11 +3,25 @@
 <img src="https://github.com/sameerihs/aikyam/blob/main/assets/images/Aikyam%20Logo.png" alt="Aikyam App Logo" width="200"/>
 
 ## Table of Contents
+- [Screenshots](#screenshots)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technological Stack](#technological-stack)
 - [Libraries Used](#libraries-used)
 - [Future Work](#future-work)
+
+## Screenshots
+<p align="center">
+  <img width="243" alt="Login Screen" src="https://github.com/sameerihs/aikyam/blob/main/assets/images/ss_login.png">
+  <img width="243" alt="Onboarding Screen" src="https://github.com/sameerihs/aikyam/blob/main/assets/images/ss_onboard.png">
+  <img width="243" alt="Tap Card Screen" src="https://github.com/sameerihs/aikyam/blob/main/assets/images/ss_tapcard.png">
+</p>
+<p align="center">
+  <img width="243" alt="Dashboard Screen" src="https://github.com/sameerihs/aikyam/blob/main/assets/images/ss_dashboard.png">
+  <img width="243" alt="Settings Screen" src="https://github.com/sameerihs/aikyam/blob/main/assets/images/ss_settings.png">
+  <img width="243" alt="Notification Screen" src="https://github.com/sameerihs/aikyam/blob/main/assets/images/ss_notif.png">
+</p>
+
 
 
 ## Introduction
