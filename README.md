@@ -21,7 +21,11 @@
   <img width="243" alt="Settings Screen" src="https://github.com/sameerihs/aikyam/blob/main/assets/images/ss_settings.png">
   <img width="243" alt="Notification Screen" src="https://github.com/sameerihs/aikyam/blob/main/assets/images/ss_notif.png">
 </p>
-
+<p align="center">
+  <img width="243" alt="Set Up Screen" src="https://github.com/sameerihs/aikyam/blob/main/assets/images/ss_setup.png">
+  <img width="243" alt="Secure fields Screen" src="https://github.com/sameerihs/aikyam/blob/main/assets/images/ss_fields.png">
+  <img width="243" alt="Log Out Screen" src="https://github.com/sameerihs/aikyam/blob/main/assets/images/ss_logout.png">
+</p>
 
 
 ## Introduction
